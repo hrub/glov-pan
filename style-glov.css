@@ -1,0 +1,157 @@
+
+
+
+.nav-bar{display: block;
+    height: 140px;
+         top: 0px; 
+         position: fixed;
+        background-color:#fff ;
+    width: 1185px;
+    ; 
+  
+
+}
+
+#sous-body{display:flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+         div1{display:flex;
+               flex-direction: row;
+              justify-content: space-around;
+              align-items: center;}
+
+              div2{display:flex;
+                flex-direction: row;
+               justify-content: space-around;
+               align-items: center;}  
+               
+               
+    .nav1{display: flex;
+          justify-content: space-around;}
+
+      .sel-ev{display: flex;
+               flex-direction: row;
+            margin-bottom: 1650px;} 
+            
+            #section{display: flex;
+                flex-direction: row;
+                 justify-content: space-around;
+                   margin-right: 200px;
+                   }
+
+             .section-1{display: flex;
+                        flex-direction: row;
+                        justify-content: space-around;}      
+
+      .article{display: block;
+               
+                 width: 900px;
+                  height: 700px;
+                  margin-top: 180px;
+                  position: absolute;
+                  
+                  }         
+
+    .valeur{display:flex;
+      flex-direction: column;
+             width: 335px;
+              margin-top: 180px;
+              height: 335px;
+              margin-left: 850px;
+              margin-right: 50px;
+              border-top-right-radius: 20px ;
+              border-top-left-radius:20px ;
+              border-color: black;
+              border-width:12px ;
+              background-color: gold ;
+               position: fixed;
+               font-size: 20px;
+               justify-content: center; 
+               bottom: 7px;
+               padding-bottom: 10px ; 
+                         
+    }
+    
+
+    .valeur li{display: flex;
+               flex-direction: row;
+               justify-content: space-around;
+               }
+
+    .valeur div{display: flex;
+               flex-direction: column;
+                align-self: start;}
+
+
+    .produit-a{display: flex;
+               flex-direction: row;
+                justify-content: space-between;
+            align-items: center;}
+
+        .produit-bt{display:block;
+                    font-size:25px ;
+                    margin-right: 120px;
+                  background-color: #fff ;
+                   border-color: #fff  }       
+
+     .section{display: flex;
+              flex-direction: row;
+              justify-content: space-between;
+              width: 700px;
+              height: 200px;
+              background-color: blanchedalmond;
+              align-items: center;
+              
+              margin-bottom: 40px;
+              border-radius: 20px;
+     }     
+     
+     span-1{display: flex;
+          flex-direction: column;
+        justify-content:center;}
+
+        div-1{display: flex;
+            flex-direction: column;
+          justify-content: space-between;}
+
+          .coeur{   
+            width: 40px; 
+             
+        }
+        .colere-1{width: 45px;position: absolute;
+        height: 25px;border-width: 0Px;  background-color: blanchedalmond;
+        }
+        
+        .colere-2{width: 45px;position: absolute;
+          height: 25px;border-width: 0Px;  background-color: blanchedalmond;
+          }
+          .colere-3{width: 45px;position: absolute;
+            height: 25px;border-width: 0Px;  background-color: blanchedalmond;
+            }
+            .colere-4{width: 45px;position: absolute;
+              height: 25px;border-width: 0Px;  background-color: blanchedalmond;
+              }
+              .colere-5{width: 45px;position: absolute;
+                height: 25px;border-width: 0Px;  background-color: blanchedalmond;
+                }
+        
+        .icone-a{display:flex;flex-direction: row ;margin-right: 20px;
+             background-color:blanchedalmond ;width: 45px;}
+
+.coeur-1{width: 50px;}
+
+        .footer{display: flex;
+          flex-direction: column;
+          background-color: teal;
+          height: 100px;
+          bottom: 0px;
+          justify-content: center;
+text-align: center;
+        font-size: 30px;
+          width: 1300px;
+          
+          
+
+        }
